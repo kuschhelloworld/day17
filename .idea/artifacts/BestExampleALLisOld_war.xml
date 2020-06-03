@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="BestExampleALLisOld:war">
+    <output-path>$PROJECT_DIR$/out/artifacts/BestExampleALLisOld_war</output-path>
+    <root id="archive" name="BestExampleALLisOld_war.war">
+      <element id="artifact" artifact-name="BestExampleALLisOld:war exploded" />
+      <element id="dir-copy" path="$PROJECT_DIR$/web/WEB-INF/lib" />
+    </root>
+  </artifact>
+</component>
